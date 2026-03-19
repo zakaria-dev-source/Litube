@@ -2,27 +2,27 @@
 
 This is a privacy-enhanced fork of Litube, an advanced WebView wrapper for YouTube. This modified version focuses on improving user privacy by removing potentially invasive third-party libraries and dependencies.
 
-✨ Key Features
+Key Features
 
-🎥 Advanced YouTube WebView wrapper
+Advanced YouTube WebView wrapper
 
-📥 Video download functionality
+Video download functionality
 
-🚫 Hide YouTube Shorts
+Hide YouTube Shorts
 
-👎 Display dislikes counter
+Display dislikes counter
 
-🎨 Custom themes and styling
+Custom themes and styling
 
-🌍 Multi-language support
+Multi-language support
 
-🔒 Enhanced privacy (no tracking libraries)
+Enhanced privacy (no tracking libraries)
 
-🛡️ Privacy Improvements
+Privacy Improvements
 
 This modified version includes the following privacy enhancements:
 
-❌ Removed Libraries:
+Removed Libraries:
 
 Tencent MMKV (com.tencent.mmkv)
 
@@ -48,19 +48,19 @@ Removed unnecessary dependencies
 com.google.common - Essential utilities only
 
 com.coremedia.iso - Video file processing (necessary for functionality)
-📦 Releases
+Releases
 
 Download the latest APK from the Releases page.
 
-Current Version: v1.0.0-privacy-enhanced
+Current Version: v2.0.0-privacy-enhanced
 
-File: litube-privacy-enhanced.apk
+File: litube.apk
 
 Size: ~14 MB
 
 Android: 5.0+ (API 21+)
 
-🔐 Security
+Security
 
 ✅️ Scanned by virustotal.com
 
@@ -74,7 +74,7 @@ Android: 5.0+ (API 21+)
 
 ✅ Self-signed with private key
 
-🚀 Installation
+Installation
 
 Download the APK from Releases
 
