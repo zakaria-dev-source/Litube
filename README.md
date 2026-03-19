@@ -1,4 +1,4 @@
-📖 Description
+Description
 
 This is a privacy-enhanced fork of Litube, an advanced WebView wrapper for YouTube. This modified version focuses on improving user privacy by removing potentially invasive third-party libraries and dependencies.
 
@@ -43,7 +43,7 @@ Google libraries (reduced to minimum)
 Kept only essential utilities (Google Common)
 
 Removed unnecessary dependencies
-✅ What Remains:
+What Remains:
 
 com.google.common - Essential utilities only
 
