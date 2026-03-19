@@ -62,6 +62,8 @@ Android: 5.0+ (API 21+)
 
 🔐 Security
 
+✅️ Scanned by virustotal.com
+
 ✅ No tracking libraries
 
 ✅ No telemetry
