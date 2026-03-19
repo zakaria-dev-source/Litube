@@ -62,7 +62,7 @@ Android: 5.0+ (API 21+)
 
 Security
 
-✅️ Scanned by virustotal.com
+✅️ Scanned by https://www.virustotal.com/gui/file/e05ebaf402b9dd1a8694cccad0af4c106f598d9199b8fa231b20602fb1cd3292/detection
 
 ✅ No tracking libraries
 
